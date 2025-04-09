@@ -1,1 +1,1 @@
-docker run -it meu-so /bin/bash
+docker run --network minha-rede -it meu-so /bin/bash
